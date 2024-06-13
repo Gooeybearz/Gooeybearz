@@ -10,7 +10,7 @@
   - SQL
 
 - 📫 How to reach me ...
-  -michael.alan.bosse@gmail.com
+  - michael.alan.bosse@gmail.com
 
 - 😄 Pronouns: ...
   - He/Him
